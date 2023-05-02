@@ -7,7 +7,7 @@ export function Navigation() {
       <h3 className="font-bold">Github Search</h3>
 
       <span>
-        <Link to="/" className="mr-2">
+        <Link to="/" className="mr-2 hover:shadow-md hover:bg-black-100 transition-all">
           Home
         </Link>
         <Link to="/favourite">Favorite</Link>
